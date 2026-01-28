@@ -10,7 +10,7 @@ Done with reading books that are just okay? Done with searching through ratings 
 
 ### Design
 
-![Design image](bookacemockup.png)
+![Design image](libraryaceMyAcePage.png)
 
 ### Key features
 
