@@ -2,7 +2,7 @@
 
 [Library Ace](https://startup.libraryace.click)
 
-This application allows a user to select and "favorite" one book. After a user selects their favorite title, the favorite count is added to for that book. Users are able to see the most loved books, allowing them to find their next read. Users can browse through the selection of books, gaining valuable information such as title, author, and summary.
+This application allows a user to select and "ace" one book. After a user selects their favorite title, the favorite count is added to for that book. Users are able to see the most loved books, allowing them to find their next read. Users can browse through the selection of books, gaining valuable information such as title, author, and summary.
 
 ### Elevator pitch
 
